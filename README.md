@@ -15,7 +15,7 @@
      <u><a href="https://twitter.com/hashtag/inclusion/">#inclusion </a></u> 
   </b>. 
   In recent years I successfully made a transition from 17 years in the restaurant business into a full stack software developer position on the heels of early mornings, late nights, the Launchcode bootcamp, and tons of prayers. </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Re2OX-mAEwM?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center">
   <a href="https://github.com/onesirian?tab=followers">
     <img src="https://img.shields.io/github/followers/onesirian?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
