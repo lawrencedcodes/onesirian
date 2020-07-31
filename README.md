@@ -17,7 +17,7 @@
   In recent years I successfully made a transition from 17 years in the restaurant business into a full stack software developer position on the heels of early mornings, late nights, the Launchcode bootcamp, and tons of prayers. </p>
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
+  <a href="https://github.com/onesirian?tab=followers">
     <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/LDLockhartJr">
