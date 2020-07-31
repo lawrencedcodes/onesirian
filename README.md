@@ -28,6 +28,7 @@
   </a>
   <a href="https://www.youtube.com/channel/UCj7IUdse32qRfshcBQnm14A">
     <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCj7IUdse32qRfshcBQnm14A)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCj7IUdse32qRfshcBQnm14A)" />
   </a>
 </p>
 
