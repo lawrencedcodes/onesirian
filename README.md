@@ -20,7 +20,7 @@
   <a href="https://github.com/onesirian?tab=followers">
     <img src="https://img.shields.io/github/followers/onesirian?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/LDLockhartJr">
+  <a href="https://twitter.com/LawrenceDCodes">
     <img src="https://img.shields.io/twitter/follow/onesirian?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
