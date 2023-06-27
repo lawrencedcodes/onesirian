@@ -23,6 +23,9 @@
   <a href="https://twitter.com/LawrenceDCodes">
     <img src="https://img.shields.io/twitter/follow/onesirian?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+  <a href="https://lawrencedcodes.blogspot.com">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=onesirian&show_icons=true&count_private=true&include_all_commits=true&hide=stars)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onesirian)](https://github.com/onesirian/github-readme-stats)
